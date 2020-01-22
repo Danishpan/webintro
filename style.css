@@ -11,3 +11,8 @@ td
 	padding: 25px;
 }
 th {border-left: 5px solid blue;}
+
+.schedule
+{
+	color:green;
+}
